@@ -1,7 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"sulArredores","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":false,"name":"trilhaMontanhas","order":2,"parentId":0,"scrollX":534,"scrollY":319},
-{"id":3,"expanded":false,"name":"florestaSul","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"sulCidade","order":4,"parentId":0,"scrollX":525,"scrollY":1152}
+{"id":2,"expanded":false,"name":"trilhaMontanhas","order":2,"parentId":0,"scrollX":817,"scrollY":461},
+{"id":3,"expanded":false,"name":"florestaSul","order":3,"parentId":0,"scrollX":809,"scrollY":461},
+{"id":4,"expanded":false,"name":"sulCidade","order":4,"parentId":0,"scrollX":816,"scrollY":640},
+{"id":5,"expanded":false,"name":"casteloExterior","order":5,"parentId":0,"scrollX":832,"scrollY":640}
 ]
